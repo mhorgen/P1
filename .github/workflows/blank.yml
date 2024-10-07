@@ -1,5 +1,5 @@
-weight = int(input("Weight: "))
-unit = input("(K)g or (L)bs: ")
+weight = int(input("Weight: "));
+unit = input("(K)g or (L)bs: ");
 if unit = k or K:
   weight_in_pounds = weight * 2.20462
   print("Weight in lbs: " + weight_in_pounds)
